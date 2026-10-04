@@ -1,0 +1,14 @@
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\bin\Debug\net10.0\CabitacMY.exe
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\bin\Debug\net10.0\CabitacMY.deps.json
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\bin\Debug\net10.0\CabitacMY.runtimeconfig.json
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\bin\Debug\net10.0\CabitacMY.dll
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\bin\Debug\net10.0\CabitacMY.pdb
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.AssemblyInfoInputs.cache
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.AssemblyInfo.cs
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.csproj.CoreCompileInputs.cache
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.dll
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\refint\CabitacMY.dll
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.pdb
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\CabitacMY.genruntimeconfig.cache
+C:\Users\ysabe\OneDrive\Desktop\CabitacMY\obj\Debug\net10.0\ref\CabitacMY.dll
